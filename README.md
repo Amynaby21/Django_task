@@ -1,1 +1,1 @@
-"# Django2" 
+This Django repository contains all the tasks about Django.
